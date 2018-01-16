@@ -6,6 +6,7 @@
 
 ## 人工智能
 * 《Machine Learning》-- Andrew Ng 2018.01
+* [《neuralnetworksanddeeplearning》](http://neuralnetworksanddeeplearning.com/about.html)
 ## 互联网
 * 《HTTP 权威指南》
 * 《大型网站技术架构-核心原理与案例分析》
