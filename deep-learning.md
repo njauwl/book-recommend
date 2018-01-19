@@ -6,5 +6,5 @@
 ## CNN
 
 ## RNN
-
-* [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Recurrent Neural Network Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
